@@ -2,9 +2,9 @@
 
 ---
 
-#####source code：[https://github.com/facebook/C3D/tree/master/C3D-v1.1](https://github.com/facebook/C3D/tree/master/C3D-v1.1)
+ ####source code：[https://github.com/facebook/C3D/tree/master/C3D-v1.1](https://github.com/facebook/C3D/tree/master/C3D-v1.1)
 
-#####example:  [https://github.com/facebook/C3D/tree/master/C3D-v1.1/examples/c3d_ucf101_finetuning](https://github.com/facebook/C3D/tree/master/C3D-v1.1/examples/c3d_ucf101_finetuning)
+ ####example:  [https://github.com/facebook/C3D/tree/master/C3D-v1.1/examples/c3d_ucf101_finetuning](https://github.com/facebook/C3D/tree/master/C3D-v1.1/examples/c3d_ucf101_finetuning)
 
 主要是修改data-list,匹配上video-data-layer读入的数据形式。如下：
 
